@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"mx.unam.fi.poo.g1.p56.p33","c":"MapComida","l":"getMapa()"},{"p":"mx.unam.fi.poo.g1.p56.p33","c":"MapComida","l":"MapComida()","u":"%3Cinit%3E()"},{"p":"mx.unam.fi.poo.g1.p56.p33","c":"MapComida","l":"setMapa(HashMap<String, Integer>)","u":"setMapa(java.util.HashMap)"}];updateSearchResults();
